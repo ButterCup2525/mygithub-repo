@@ -4,3 +4,4 @@ third line added
 fourth line added to sample feature-1 branch
 fifth line added developer feature-d1 branch
 fifth line added developer feature-d2 branch
+sixth line added form the develop branch
